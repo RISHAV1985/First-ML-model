@@ -9,3 +9,4 @@ Applying random forest regressor for prediction
 Checking its performance 
 Comparing the performance of both models
 Visualising the models and predictions using graphs
+Silimarly apply with different models
